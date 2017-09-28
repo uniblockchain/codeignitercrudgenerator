@@ -37,6 +37,7 @@ In case i have following schema.xml
   </table>
   ....
   ```
-  you can generate CRUD book by using this command
+You can generate CRUD book by using this command:
+
 `php Scaffold generate Book author_id.Author-publisher_id.Publisher`
 
