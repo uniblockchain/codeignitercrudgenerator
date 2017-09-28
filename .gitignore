@@ -12,7 +12,7 @@ composer.lock
 public/components
 generated-sql
 generated-conf
-generated-migration
+generated-migrations
 user_guide_src/build/*
 user_guide_src/cilexer/build/*
 user_guide_src/cilexer/dist/*
